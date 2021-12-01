@@ -1,4 +1,14 @@
-### Hi there 👋
+## Hi there 👋
+
+### 🔭 I’m currently working on
+My personal website
+
+### 🌱 I’m currently learning
+Docker, terraform, aws (Devops stuff)
+You can follow my progress at https://onoumenon.gitbook.io/wiki/
+
+### 📫 How to reach me
+I'm best reached via email (tanhuitian at gmail)
 
 <!--
 **onoumenon/onoumenon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
