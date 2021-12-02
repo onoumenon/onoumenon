@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-### 🔭 I’m currently working on
-My personal website
+I'm a mid-career switcher, who's passionate about design and technology. My favorite podcasts includes 99% Invisible and Planet Money. 
 
 ### 🌱 I’m currently learning
 Docker, terraform, aws (Devops stuff)
