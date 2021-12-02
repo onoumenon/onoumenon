@@ -12,9 +12,11 @@ I'm a mid-career switcher, who's passionate about design and technology. My favo
 Docker, terraform, aws (Devops stuff)
 You can follow my progress at https://onoumenon.gitbook.io/wiki/
 
-### 📫 How to reach me
-I'm best reached via email (tanhuitian at gmail)
-
+### 📫 Get In Touch
+<a href="https://www.linkedin.com/in/hui-tian/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="linkedin"></a>
+&nbsp; &nbsp;
+<a href="mailto:tanhuitian@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
+&nbsp; &nbsp;
 <!--
 **onoumenon/onoumenon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
