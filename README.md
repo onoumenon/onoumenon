@@ -1,7 +1,6 @@
 [![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://onoumenon.netlify.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hui-tian/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=onoumenon)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
